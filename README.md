@@ -2,6 +2,7 @@
 
 <!--
 **Codesait/Codesait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 Here are some ideas to get you started:
 
@@ -11,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Flutter
 - 📫 How to reach me: linkish.co/melasin
 - ⚡ Fun fact: I love mobile technologies
--->
+
 
 <div align="center"> 
      <a href="">
