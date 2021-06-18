@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Dart
 - 👯 I’m looking to collaborate on opensource projects
 - 💬 Ask me about Flutter
-- 📫 How to reach me: linkish.co/melasin
+- 📫 How to reach me: melasin4@gmail.com
 - ⚡ Fun fact: I love mobile technologies
 
 
