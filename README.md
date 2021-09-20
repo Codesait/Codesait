@@ -13,8 +13,15 @@
 - ⚡ Fun fact: I love mobile technologies
 
 
+🏆 GitHub Trophies
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isaacadariku&margin-w=5&theme=onedark" alt="isaacadariku" /></a> </p>
+
+
 <div align="center"> 
      <a href="">
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=codesait&show_icons=true&include_all_commits=true&count_private=true&line_height=40" />
     </a>
 </div
+     
+     
