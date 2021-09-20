@@ -16,7 +16,7 @@
 
 <div align="center"> 
      <a href="">
-      <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=codesait&show_icons=true&include_all_commits=true&count_private=true&line_height=35" />
+      <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=codesait&show_icons=true&include_all_commits=true&count_private=true&line_height=35" />
     </a>
 </div
      
