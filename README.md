@@ -13,15 +13,20 @@
 - ⚡ Fun fact: I love mobile technologies
 
 
+
+<div align="center"> 
+     <a href="">
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=codesait&show_icons=true&include_all_commits=true&count_private=true&line_height=60" />
+    </a>
+</div
+     
+     
+
 🏆 GitHub Trophies
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codesait&margin-w=5&theme=onedark" alt="codesait" /></a> </p>
 
 
-<div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=codesait&show_icons=true&include_all_commits=true&count_private=true&line_height=40" />
-    </a>
-</div
+
      
      
