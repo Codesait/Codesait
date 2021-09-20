@@ -15,7 +15,7 @@
 
 🏆 GitHub Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isaacadariku&margin-w=5&theme=onedark" alt="isaacadariku" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codesait&margin-w=5&theme=onedark" alt="codesait" /></a> </p>
 
 
 <div align="center"> 
