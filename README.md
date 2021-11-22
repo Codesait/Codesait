@@ -5,14 +5,18 @@
 -->
 
 
-- 🔭 I’m currently working on my coding skills
 - 🌱 I’m currently learning Dart
 - 👯 I’m looking to collaborate on opensource projects
 - 💬 Ask me about Flutter
-- 📫 How to reach me: melasin4@gmail.com
 - ⚡ Fun fact: I love mobile technologies
 
 
+
+<div align="center"> 
+     <a href="">
+      <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=codesait&show_icons=true&include_all_commits=true&count_private=true&line_height=35" />
+    </a>
+</div
 
 
 ### 🏆 GitHub Trophies
@@ -21,11 +25,7 @@
 
 
 
-<!-- <div align="center"> 
-     <a href="">
-      <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=codesait&show_icons=true&include_all_commits=true&count_private=true&line_height=35" />
-    </a>
-</div
+ 
      
 <!-- GIthub graph by - https://github.com/ashutosh00710/github-readme-activity-graph -->
 
