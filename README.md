@@ -6,10 +6,9 @@
 
 
 - 🌱 I’m currently learning Dart
-- 👯 I’m looking to collaborate on opensource projects
+- 👯 I’m an opensource collaborator
 - 💬 Ask me about Flutter
 - ⚡ Fun fact: I love mobile technologies
-- 👨🏽‍💻I love opensource
 
 ### 👨🏽‍💻 HacktoberFest 2022 Badges
 
