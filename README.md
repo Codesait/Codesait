@@ -10,6 +10,10 @@
 - 💬 Ask me about Flutter
 - ⚡ Fun fact: I love mobile technologies
 
+### 👨🏽‍💻 HacktoberFest 2022 Badges
+
+[![@melanin's Holopin board](https://holopin.me/melanin)](https://holopin.io/@melanin)
+
 
 ### 🏆 GitHub Trophies
 
