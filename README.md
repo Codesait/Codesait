@@ -9,6 +9,7 @@
 - 👯 I’m looking to collaborate on opensource projects
 - 💬 Ask me about Flutter
 - ⚡ Fun fact: I love mobile technologies
+- 👨🏽‍💻I love opensource
 
 ### 👨🏽‍💻 HacktoberFest 2022 Badges
 
