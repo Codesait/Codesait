@@ -13,7 +13,7 @@
 
 ### 👨🏽‍💻 HacktoberFest 2022 Badges
 
-[![@melanin's Holopin board](https://holopin.me/melanin)](https://holopin.io/@melanin)
+[![@melanin's Holopin board](https://holopin.me/melanin)]
 
 
 ### 🏆 GitHub Trophies
