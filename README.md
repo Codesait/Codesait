@@ -5,7 +5,6 @@
 -->
 
 
-- 🌱 I’m currently learning Dart
 - 👯 I’m an opensource collaborator
 - 💬 Ask me about Flutter
 - ⚡ Fun fact: I love mobile technologies
